@@ -1,0 +1,17 @@
+Terminologies
+---------------------------
+- Region (Geo location)
+- AZ (Availability zone)
+  - Building/Data center
+  - min 2 AZs belong to a Region
+  - Multiple AZ belongs to a Region
+- VPC (Private network in a region)
+  - Private cloud
+- Subnets
+  - Sub n/w under the same VPC
+- AMI (Amazon machine image)
+  - OS + different applications
+- Security groups
+  - firewall rules for instance in AWS
+- IAM (Identity access management)
+  - Users/permissions
