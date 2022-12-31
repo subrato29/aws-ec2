@@ -15,3 +15,5 @@ Terminologies
   - firewall rules for instance in AWS
 - IAM (Identity access management)
   - Users/permissions
+- Hierarchy
+  - Region ==> AZ ==> VPC ==> Subnet
