@@ -6,7 +6,7 @@
   - Subnet
   - Security groups
   - Create an AWS instance
-  - Configure the instance by SST .pem file and installing necessary s/w
+  - Configure the instance by SSH .pem file and installing necessary s/w
   - Create AMIs
   - Volume will be created automatically
   - Snapshots will be created.
