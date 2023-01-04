@@ -1,0 +1,12 @@
+- AWS Image to be created
+- Terminate the image from instances whenever it's required
+- Once the instances terminated, we can not access the same instance by SSH
+- Below is the order to be followed to create AWS EC2 instances
+  - VPC
+  - Subnet
+  - Security groups
+  - Create an AWS instance
+  - Configure the instance by SST .pem file and installing necessary s/w
+  - Create AMIs
+  - Volume will be created automatically
+  - Snapshots will be created.
