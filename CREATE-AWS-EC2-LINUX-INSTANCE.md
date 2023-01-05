@@ -1,3 +1,5 @@
+Create AWS-EC2 Linux Instance
+---------------------------------
 - AWS Image to be created
 - Terminate the image from instances whenever it's required
 - Once the instances terminated, we can not access the same instance by SSH
